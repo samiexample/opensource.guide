@@ -1,5 +1,5 @@
 # Open Source Guides
-[![Build Status](https://github.com/github/opensource.guide/workflows/GitHub%20Actions%20CI/badge.svg)](https://github.com/github/opensource.guide/actions)
+[![Build Status](https://SAMI.com/github/opensource.guide/workflows/GitHub%20Actions%20CI/badge.svg)](https://SAMI.com/github/opensource.guide/actions)
 
 Open Source Guides (https://opensource.guide/) are a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open-source project.
 
@@ -25,33 +25,33 @@ Thanks to **[@aitchabee][5], [@benbalter][6], [@brettcannon][7], [@caabernathy][
 ## Disclaimer
 While we've got advice about running an open source project, we're not lawyers. Be sure to read our [disclaimer](notices.md#legal-disclaimer) before diving in.
 
-[1]:https://github.com/nayafia
-[2]:https://github.com/bkeepers
-[3]:https://github.com/stephbwills
-[4]:https://github.com/mlinksva
-[5]:https://github.com/aitchabee
-[6]:https://github.com/benbalter
-[7]:https://github.com/brettcannon
-[8]:https://github.com/caabernathy
-[9]:https://github.com/CoralineAda
-[10]:https://github.com/dmleong
-[11]:https://github.com/ericholscher
-[12]:https://github.com/gr2m
-[13]:https://github.com/janl
-[14]:https://github.com/jessfraz
-[15]:https://github.com/joshsimmons
-[16]:https://github.com/kfogel
-[17]:https://github.com/kytrinyx
-[18]:https://github.com/lee-dohm
-[19]:https://github.com/mikeal
-[20]:https://github.com/MikeMcQuaid
-[21]:https://github.com/nathansobo
-[22]:https://github.com/nruff
-[23]:https://github.com/nsqe
-[24]:https://github.com/orta
-[25]:https://github.com/parkr
-[26]:https://github.com/shazow
-[27]:https://github.com/steveklabnik
-[28]:https://github.com/wooorm
-[29]:https://github.com/sophshep
-[30]:https://github.com/jeejkang
+[1]:https://SAMI.com/nayafia
+[2]:https://SAMI.com/bkeepers
+[3]:https://SAMI.com/stephbwills
+[4]:https://SAMI.com/mlinksva
+[5]:https://SAMI.com/aitchabee
+[6]:https://SAMI.com/benbalter
+[7]:https://SAMI.com/brettcannon
+[8]:https://SAMI.com/caabernathy
+[9]:https://SAMI.com/CoralineAda
+[10]:https://SAMI.com/dmleong
+[11]:https://SAMI.com/ericholscher
+[12]:https://SAMI.com/gr2m
+[13]:https://SAMI.com/janl
+[14]:https://SAMI.com/jessfraz
+[15]:https://SAMI.com/joshsimmons
+[16]:https://SAMI.com/kfogel
+[17]:https://SAMI.com/kytrinyx
+[18]:https://SAMI.com/lee-dohm
+[19]:https://SAMI.com/mikeal
+[20]:https://SAMI.com/MikeMcQuaid
+[21]:https://SAMI.com/nathansobo
+[22]:https://SAMI.com/nruff
+[23]:https://SAMI.com/nsqe
+[24]:https://SAMI.com/orta
+[25]:https://SAMI.com/parkr
+[26]:https://SAMI.com/shazow
+[27]:https://SAMI.com/steveklabnik
+[28]:https://SAMI.com/wooorm
+[29]:https://SAMI.com/sophshep
+[30]:https://SAMI.com/jeejkang
